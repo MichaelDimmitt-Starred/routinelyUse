@@ -1,0 +1,6 @@
+[submodule "reusableTools"]
+	path = reusableTools
+	url = https://github.com/miketestgit01/reusableTools.git
+[submodule "C-Programs"]
+	path = C-Programs
+	url = https://github.com/miketestgit01/C-Programs.git
