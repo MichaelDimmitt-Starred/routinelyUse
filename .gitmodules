@@ -4,3 +4,6 @@
 [submodule "C-Programs"]
 	path = C-Programs
 	url = https://github.com/miketestgit01/C-Programs.git
+[submodule "JavaPrograms"]
+	path = JavaPrograms
+	url = https://github.com/miketestgit01/JavaPrograms.git
