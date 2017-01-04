@@ -7,3 +7,6 @@
 [submodule "JavaPrograms"]
 	path = JavaPrograms
 	url = https://github.com/miketestgit01/JavaPrograms.git
+[submodule "environment_Setups/RubyEnvironment"]
+	path = environment_Setups/RubyEnvironment
+	url = https://github.com/miketestgit01/RubyEnvironment.git
