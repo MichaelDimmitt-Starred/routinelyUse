@@ -10,3 +10,6 @@
 [submodule "environment_Setups/RubyEnvironment"]
 	path = environment_Setups/RubyEnvironment
 	url = https://github.com/miketestgit01/RubyEnvironment.git
+[submodule "commandsDifferentMediums"]
+	path = commandsDifferentMediums
+	url = https://github.com/MichaelDimmitt-Starred/commandsDifferentMediums
