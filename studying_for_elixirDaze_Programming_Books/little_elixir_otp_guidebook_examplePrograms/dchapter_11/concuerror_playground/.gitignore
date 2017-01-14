@@ -1,8 +1,0 @@
-/_build
-/cover
-/deps
-erl_crash.dump
-*.ez
-concuerror.*
-concuerror_report.txt
-.DS_Store
