@@ -13,3 +13,6 @@
 [submodule "commandsDifferentMediums"]
 	path = commandsDifferentMediums
 	url = https://github.com/MichaelDimmitt-Starred/commandsDifferentMediums
+[submodule "studying_for_elixirDaze_Programming_Books"]
+	path = studying_for_elixirDaze_Programming_Books
+	url = https://github.com/miketestgit01/studying_for_elixirDaze_Programming_Books.git
