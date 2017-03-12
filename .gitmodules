@@ -16,3 +16,6 @@
 [submodule "studying_for_elixirDaze_Programming_Books"]
 	path = studying_for_elixirDaze_Programming_Books
 	url = https://github.com/miketestgit01/studying_for_elixirDaze_Programming_Books.git
+[submodule "Greatest-Github-Contributions"]
+	path = Greatest-Github-Contributions
+	url = https://github.com/MichaelDimmitt/Greatest-Github-Contributions.git
