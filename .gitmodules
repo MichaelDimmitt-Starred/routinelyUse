@@ -7,9 +7,6 @@
 [submodule "JavaPrograms"]
 	path = JavaPrograms
 	url = https://github.com/miketestgit01/JavaPrograms.git
-[submodule "environment_Setups/RubyEnvironment"]
-	path = environment_Setups/RubyEnvironment
-	url = https://github.com/miketestgit01/RubyEnvironment.git
 [submodule "commandsDifferentMediums"]
 	path = commandsDifferentMediums
 	url = https://github.com/MichaelDimmitt-Starred/commandsDifferentMediums
@@ -19,3 +16,6 @@
 [submodule "Greatest-Github-Contributions"]
 	path = Greatest-Github-Contributions
 	url = https://github.com/MichaelDimmitt/Greatest-Github-Contributions.git
+[submodule "environmentSetups/RubyEnvironment"]
+	path = environmentSetups/RubyEnvironment
+	url = https://github.com/miketestgit01/RubyEnvironment.git
